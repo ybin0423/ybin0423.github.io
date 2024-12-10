@@ -99,7 +99,7 @@ theme_mode: light
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "C:\Users\user\Pictures\Saved Pictures\burrow bunny wallpaper.jpg"
+avatar: "https://preview.redd.it/in-turning-red-2022-the-bunny-on-the-back-of-meis-notebook-v0-h9h5qj8522x81.jpg?width=640&crop=smart&auto=webp&s=0c0ffa04a220644076964810cd58d51feae7b487"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
